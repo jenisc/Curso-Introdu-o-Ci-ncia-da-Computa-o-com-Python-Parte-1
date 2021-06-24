@@ -1,1 +1,1 @@
-# Curso-Introdu-o-Ci-ncia-da-Computa-o-com-Python-Parte-1
+# Curso-Introducao-Ciencia-da-Computacao-com-Python-Parte-1
